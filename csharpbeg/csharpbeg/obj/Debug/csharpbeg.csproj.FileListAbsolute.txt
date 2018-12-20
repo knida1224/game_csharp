@@ -1,0 +1,27 @@
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\bin\Debug\csharpbeg.exe.config
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\bin\Debug\csharpbeg.exe
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\bin\Debug\csharpbeg.pdb
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csprojAssemblyReference.cache
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csproj.CoreCompileInputs.cache
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\obj\Debug\csharpbeg.exe
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\obj\Debug\csharpbeg.pdb
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\obj\Debug\csharpbeg.Form1.resources
+C:\Users\kyle_\source\repos\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csproj.GenerateResource.cache
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\bin\Debug\csharpbeg.exe.config
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\bin\Debug\csharpbeg.exe
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\bin\Debug\csharpbeg.pdb
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csprojAssemblyReference.cache
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.Form1.resources
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csproj.GenerateResource.cache
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csproj.CoreCompileInputs.cache
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.exe
+C:\Users\kyle_\Desktop\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.pdb
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\bin\Debug\csharpbeg.exe.config
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\bin\Debug\csharpbeg.exe
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\bin\Debug\csharpbeg.pdb
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csprojAssemblyReference.cache
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.Form1.resources
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csproj.GenerateResource.cache
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.csproj.CoreCompileInputs.cache
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.exe
+C:\Users\BigRed\Desktop\Portfolio_1215\Code Portfolio\C_Sharp\csharpbeg\csharpbeg\obj\Debug\csharpbeg.pdb
